@@ -1,0 +1,11 @@
+body {
+  margin : 0px
+}
+
+.disabled {
+  opacity: 0.1;
+}
+
+.hidden {
+  opacity: 0.0;
+}
